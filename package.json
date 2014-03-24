@@ -1,0 +1,11 @@
+{
+  "name": "iplastic-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A port of the popular SublimeText and TextMate theme made by Jeroen van der Ham",
+  "repository": "https://github.com/atom/iplastic-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
